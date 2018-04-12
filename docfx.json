@@ -9,8 +9,6 @@
         "exclude": [
           "**/obj/**",
           "**/includes/**",
-          "_themes/**",
-          "_themes.pdf/**",
           "README.md",
           "LICENSE",
           "LICENSE-CODE",
@@ -26,9 +24,7 @@
         ],
         "exclude": [
           "**/obj/**",
-          "**/includes/**",
-          "_themes/**",
-          "_themes.pdf/**"
+          "**/includes/**"
         ]
       }
     ],
@@ -37,6 +33,6 @@
     "globalMetadata": {},
     "fileMetadata": {},
     "template": [],
-    "dest": "xref-prod"
+    "dest": "split-ppe"
   }
 }

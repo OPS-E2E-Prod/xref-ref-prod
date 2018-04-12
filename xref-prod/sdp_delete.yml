@@ -1,0 +1,31 @@
+### YamlMime:ManagedReference
+items:
+- uid: sdp_delete_uid
+  commentId: N:sdp_delete_uid
+  id: sdp_delete_uid
+  children:
+  - Microsoft.SqlServer.Server.SqlMetaData
+  langs:
+  - csharp
+  - vb
+  name: sdp_delete_uid
+  nameWithType: sdp_delete_uid
+  fullName: sdp_delete_uid
+  type: Namespace
+  summary: "[content](content.md)"
+  assemblies:
+  - System.Data.SqlClient
+references:
+- uid: Microsoft.SqlServer.Server.SqlMetaData
+  commentId: T:Microsoft.SqlServer.Server.SqlMetaData
+  parent: Microsoft.SqlServer.Server
+  isExternal: false
+  name: SqlMetaData
+  nameWithType: SqlMetaData
+  fullName: Microsoft.SqlServer.Server.SqlMetaData
+- uid: Microsoft.SqlServer.Server
+  commentId: N:Microsoft.SqlServer.Server
+  isExternal: false
+  name: Microsoft.SqlServer.Server
+  nameWithType: Microsoft.SqlServer.Server
+  fullName: Microsoft.SqlServer.Server
