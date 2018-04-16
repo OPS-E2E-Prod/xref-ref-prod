@@ -1,7 +1,7 @@
-﻿### YamlMime:UniversalReference 
+### YamlMime:UniversalReference 
  items: 
- - uid: universalreference_crossbranch_exist_uid
-   name: universalreference_crossbranch_exist_uid
+ - uid: universalreference_update_exist_uid
+   name: universalreference_update_exist_uid
    summary: Manage applications running on an Azure Service Fabric cluster. 
    description: '' 
    langs: 
