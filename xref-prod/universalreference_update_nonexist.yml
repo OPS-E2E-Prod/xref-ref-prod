@@ -1,29 +1,31 @@
-### YamlMime:UniversalReference 
- items: 
- - uid: universalreference_update_exist_uid
-   name: universalreference_update_exist_uid
-   summary: Manage applications running on an Azure Service Fabric cluster. 
-   description: '' 
-   langs: 
-   - azurecli 
-   children: [] 
- commands: 
- - uid: az_sf_application_certificate 
-   name: az sf application certificate 
-   summary: Manage the certificate of an application. 
- - uid: az_sf_application_certificate_add 
-   name: az sf application certificate add 
-   summary: Add a new certificate to the Virtual Machine Scale Sets that make up the cluster to be used by hosted applications. 
- globalParameters: 
- - name: --debug 
-   summary: Increase logging verbosity to show all debug logs. 
- - name: --help -h 
-   summary: Show this help message and exit. 
- - name: --output -o 
-   defaultValue: json 
-   parameterValueGroup: json, jsonc, table, tsv 
-   summary: Output format. 
- - name: --query 
-   summary: JMESPath query string. See <a href="http://jmespath.org/">http://jmespath.org/</a> for more information and examples. 
- - name: --verbose 
-   summary: Increase logging verbosity. Use --debug for full debug logs.
+### YamlMime:ManagedReference
+items:
+- uid: universalreference_update_exist_uid
+  commentId: N:universalreference_update_exist_uid
+  id: universalreference_update_exist_uid
+  children:
+  - Microsoft.SqlServer.Server.SqlMetaData
+  langs:
+  - csharp
+  - vb
+  name: universalreference_update_exist_uid
+  nameWithType: universalreference_update_exist_uid
+  fullName: universalreference_update_exist_uid
+  type: Namespace
+  summary: "[content](content.md)"
+  assemblies:
+  - System.Data.SqlClient
+references:
+- uid: Microsoft.SqlServer.Server.SqlMetaData
+  commentId: T:Microsoft.SqlServer.Server.SqlMetaData
+  parent: Microsoft.SqlServer.Server
+  isExternal: false
+  name: SqlMetaData
+  nameWithType: SqlMetaData
+  fullName: Microsoft.SqlServer.Server.SqlMetaData
+- uid: Microsoft.SqlServer.Server
+  commentId: N:Microsoft.SqlServer.Server
+  isExternal: false
+  name: Microsoft.SqlServer.Server
+  nameWithType: Microsoft.SqlServer.Server
+  fullName: Microsoft.SqlServer.Server
