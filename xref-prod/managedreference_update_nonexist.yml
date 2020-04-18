@@ -1,16 +1,16 @@
 ### YamlMime:ManagedReference
 items:
-- uid: managedreference_update_nonexist_uid
-  commentId: N:managedreference_update_nonexist_uid
-  id: managedreference_update_nonexist_uid
+- uid: managedreference_update_exist_uid
+  commentId: N:managedreference_update_exist_uid
+  id: managedreference_update_exist_uid
   children:
   - Microsoft.SqlServer.Server.SqlMetaData
   langs:
   - csharp
   - vb
-  name: managedreference_update_nonexist_uid
-  nameWithType: managedreference_update_nonexist_uid
-  fullName: managedreference_update_nonexist_uid
+  name: managedreference_update_exist_uid
+  nameWithType: managedreference_update_exist_uid
+  fullName: managedreference_update_exist_uid
   type: Namespace
   summary: "[content](content.md)"
   assemblies:
